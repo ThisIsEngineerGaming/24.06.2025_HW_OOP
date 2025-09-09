@@ -1,0 +1,9 @@
+﻿  Yippie.cpp
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(31,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(45,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(54,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(79,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(99,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Yippie\Yippie\Yippie.cpp(110,27): warning C4018: '<': signed/unsigned mismatch
+  Yippie.vcxproj -> C:\Users\User\source\repos\Yippie\x64\Debug\Yippie.exe
